@@ -66,7 +66,7 @@ public class Average {
     }
 }
 ```
-###JUnit Test Cases
+### JUnit Test Cases
 ```java
 import org.junit.Test;
 import static org.junit.Assert.*;
